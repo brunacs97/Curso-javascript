@@ -1,5 +1,10 @@
-let idade = 5;
-let nome = 'Bruna';
-let codigo = 7;
+let a = 'vermelho';
+let b = 'azul';
+let trocaCor = a;
 
-console.log(nome, idade, codigo)
+a = b;
+b = trocaCor;
+
+
+console.log(a);
+console.log(b);
