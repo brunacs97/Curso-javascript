@@ -15,7 +15,5 @@ for(let numero =2; numero<=limite; numero++){
 
     if(ehPrimo) console.log(numero);
 }
-    
-
 
 }
